@@ -77,4 +77,4 @@ df_predictions = (
 -----
 
 **Desenvolvido por:** [Seu Nome ou Equipe]
-**Data da Validação:** [19/10/2025]
+**Data da Validação:** [Data da Última Execução]
